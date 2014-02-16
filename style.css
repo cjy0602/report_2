@@ -10,7 +10,8 @@ html {
   overflow-y: scroll;
 }
 body {
-  font-family: 'NanumGothicWeb';
+
+  
   background: #77807f url(./images/wood_bg.jpg) center top;
   color: #fff;
 }
